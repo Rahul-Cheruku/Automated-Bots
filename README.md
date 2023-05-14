@@ -1,5 +1,11 @@
 # tinderBot
 
+<p align="center">
+  <img src="https://github.com/Rahul-Cheruku/tinderBot/assets/77064752/9e7f8e2d-fd16-4112-b241-931c603ec666" alt="Image" width="45%">
+</p>
+
+
+
 Selenium is a popular tool for automating web browsers and is commonly used to build bots for automating tasks on websites. Here's an overview of how Selenium is used to automate tasks:
 
 ###### Installation: 
