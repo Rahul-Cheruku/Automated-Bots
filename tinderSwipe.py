@@ -42,9 +42,9 @@ while not signin_window_handle:
             break
 driver.switch_to.window(signin_window_handle)
 email = driver.find_element(by=By.XPATH, value="/html/body/div/div[2]/div[1]/form/div/div[1]/div/input")
-email.send_keys("codeydon@gmail.com")
+email.send_keys("youemail")
 password = driver.find_element(by=By.XPATH, value="/html/body/div/div[2]/div[1]/form/div/div[2]/div/input")
-password.send_keys("thisispomai")
+password.send_keys("yourpsd")
 password.send_keys(Keys.ENTER)
 driver.switch_to.window(main_window_handle)
 
