@@ -1,6 +1,6 @@
 # tinderBot
 
-<p align="center" style="border-radius:25px">
+<p align="center">
   <img src="https://github.com/Rahul-Cheruku/tinderBot/assets/77064752/9e7f8e2d-fd16-4112-b241-931c603ec666" alt="Image" width="45%">
 </p>
 
